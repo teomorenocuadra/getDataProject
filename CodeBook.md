@@ -1,4 +1,4 @@
-## Tidying up Movement Data
+## Tidying up Activity Data
 
 A complement to the script run_analysis.R
 
