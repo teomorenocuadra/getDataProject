@@ -2,7 +2,7 @@
 
 A complement to the script run_analysis.R
 
-### The Tidying up Script Step by Step Description
+### The Tidying up Script: Steps. Objects Created. Variables Description
 
 #### Step 00
 
