@@ -10,13 +10,15 @@ Download the source data files https://d396qusza40orc.cloudfront.net/getdata%2Fp
 
 Read project relevant files into the following objects:
 
-*subject_train: data frame, 7352 observations for the training data set and one variable with participant number.
-*x_train: data frame, 7352 observations and 561 quantitative variables for the training data set measurements.
-*y_train: data frame, 7352 observations for the training data set activity numbers.
-*subject_test: data frame, 2947 observations for the testing data set and one variable with participant number.
-*x_test: data frame, 2947 and 561 quantitative variables for the testing data set measurements.
-*y_test: data frame, 2947 observations for the testing data set activity numbers. 
-*features: data frame, 561 observations for the quantitative variables names.
+* subject_train: data frame, 7352 observations for the training data set and one variable with participant number.
+* x_train: data frame, 7352 observations and 561 quantitative variables for the training data set measurements.
+* y_train: data frame, 7352 observations for the training data set activity numbers.
+* subject_test: data frame, 2947 observations for the testing data set and one variable with participant number.
+* x_test: data frame, 2947 and 561 quantitative variables for the testing data set measurements.
+* y_test: data frame, 2947 observations for the testing data set activity numbers. 
+* features: data frame, 561 observations for the quantitative variables names.
+
+More details on the content of the original dataset on README.txt.
 
 #### Step 01
 
