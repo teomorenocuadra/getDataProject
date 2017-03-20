@@ -1,4 +1,4 @@
-## Tidyng up Movement Data
+## Tidyng up Activity Data
 
 ### Project Scope and Deliverables
 
